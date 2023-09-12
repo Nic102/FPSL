@@ -1,0 +1,4 @@
+﻿  test2.cpp
+C:\Users\localadmin\Desktop\FP5 (Логич. Опер)\test2.cpp(88,27): warning C4244: =: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\localadmin\Desktop\FP5 (Логич. Опер)\test2.cpp(118,15): warning C4244: =: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+  FP5 (Логич. Опер).vcxproj -> C:\Users\localadmin\Desktop\FP5 (Логич. Опер)\x64\Debug\FP5 (Логич. Опер).exe
